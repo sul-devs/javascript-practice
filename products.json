@@ -1,0 +1,47 @@
+[
+    {
+        "productName": "Maqbook Pro",
+        "productSummary": "Quick, efficient laptop for the workplace.",
+        "productPrice": 249.99,
+        "category": "Devices",
+        "src": "./assets/images/laptop.jpg",
+        "alt": "Laptop",
+        "id": 1,
+    },
+    {
+        "productName": "Earpods Pro",
+        "productSummary": "Comfy earphones, with great sound quality.",
+        "productPrice": 99.99,
+        "category": "Devices",
+        "src": "./assets/images/airpods.jpg",
+        "alt": "Airpoods Pro",
+        "id": 2,
+    },
+    {
+        "productName": "Camera NMPO21",
+        "productSummary": "High quality, antique camera.",
+        "productPrice": 1199.99,
+        "category": "Devices",
+        "src": "./assets/images/camera.jpg",
+        "alt": "Camera",
+        "id": 3,
+    },
+    {
+        "productName": "Drone MQ893",
+        "productSummary": "Drone with 4K HD camera built-in.",
+        "productPrice": 2499.99,
+        "category": "Devices",
+        "src": "./assets/images/drone.jpg",
+        "alt": "Drone",
+        "id": 4,
+    },
+    {
+        "productName": "Lphone 12 Pro",
+        "productSummary": "Durable, lightweight smart phone.",
+        "productPrice": 899.99,
+        "category": "Devices",
+        "src": "./assets/images/phone.jpg",
+        "alt": "Lphone 12 Max",
+        "id": 5,
+    }
+];
